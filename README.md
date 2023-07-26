@@ -26,7 +26,7 @@
      5. Filter Entities<br>
      &emsp;Users can filter entities based on any given field or set of fields according to specific rules.<br></p>
 
-<h2>Movie Dataset Console-based UI</h2>
+<h2>Important Notes</h2>
  <p>Inputs and Outputs Format: The program will take inputs and display results in a specific format, and users should provide inputs accordingly.<br>
     Interactive Menu: The menu will be interactive, allowing users to perform a sequence of requests.<br>
     Reusability: The program will return a collection of results after each request or sub-request, increasing reusability for subsequent requests.<br>
